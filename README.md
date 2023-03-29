@@ -1,1 +1,1 @@
-# LeetCodEexercise
+# LeetCodeExercise
